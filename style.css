@@ -1,0 +1,52 @@
+body{
+    background-color: gray; 
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 50px; 
+    background-image: linear-gradient(to right, black, gray);
+    background-image: -moz-element(15);
+}
+
+h1{
+    padding-top: 150px;
+    padding-bottom: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 1px;
+    font-weight: bold; 
+    font-size: 62px;
+}
+
+p{
+    padding-top: 0px;
+    font-size: 24px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+input[type="number"] {
+    font-size: 1.2em;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+button{
+    background-color: rgb(41, 2, 41);
+    color: white;
+    border: none;
+    padding: 13px 50px;
+    border-radius: 15px;
+    cursor:pointer;
+    margin-left: 10px;
+    <style>
+    .item{
+        transition-property: color: blue;
+        transition-duration: 1.5s
+
+}
+#message {
+    font-size: 1.5em;
+    color: rgb(237, 237, 237);
+    font-weight: bold;
+    margin-top: 20px;
+
+}
